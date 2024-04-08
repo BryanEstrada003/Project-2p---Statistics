@@ -1,3 +1,5 @@
 ""
 # archivos csv
 *.csv 
+*.xlsx
+*.pdf
