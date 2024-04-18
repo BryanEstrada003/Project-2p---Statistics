@@ -3,3 +3,6 @@
 *.csv 
 *.xlsx
 *.pdf
+
+# Pero no ignorar micro_milagro.csv
+!micro_milagro.csv
